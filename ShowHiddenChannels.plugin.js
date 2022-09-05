@@ -21,9 +21,8 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
  * @patreon https://www.patreon.com/MircoWittrien
  * @website https://mwittrien.github.io/
  * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ShowHiddenChannels/
+ * @updateUrl https://powerbox1000.github.io/BetterDiscord-Archives/ShowHiddenChannels.plugin.js
  */
-
-// update url (deleted): * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Plugins/ShowHiddenChannels/ShowHiddenChannels.plugin.js
 
 module.exports = (_ => {
 	const config = {
