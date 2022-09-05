@@ -14,7 +14,7 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
  * @name Apate
  * @author TheGreenPig, fabJunior, Aster
  * @source https://github.com/TheGreenPig/Apate/blob/main/Apate.plugin.js
- * @updateUrl https://raw.githubusercontent.com/TheGreenPig/Apate/main/Apate.plugin.js
+ * @updateUrl https://powerbox1000.github.io/BetterDiscord-Archives/Apate.plugin.js
  * @authorLink https://github.com/TheGreenPig
  * @invite JsqBVSCugb
  */
