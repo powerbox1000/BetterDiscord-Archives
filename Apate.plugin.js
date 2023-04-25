@@ -2130,24 +2130,3 @@ var dbits, canary = 0xdeadbeefcafe, j_lm = 15715070 == (16777215 & canary); func
 
 
 }
-/*
-     FILE ARCHIVED ON 00:47:06 Apr 22, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 17:39:43 Sep 05, 2022.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 857.422
-  exclusion.robots: 0.094
-  exclusion.robots.policy: 0.086
-  cdx.remote: 0.071
-  esindex: 0.012
-  LoadShardBlock: 833.025 (3)
-  PetaboxLoader3.resolve: 606.867 (3)
-  PetaboxLoader3.datanode: 115.636 (4)
-  CDXLines.iter: 13.471 (3)
-  load_resource: 216.28
-*/
