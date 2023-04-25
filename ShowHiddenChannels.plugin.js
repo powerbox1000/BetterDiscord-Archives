@@ -1001,24 +1001,3 @@ module.exports = (_ => {
 
 
 }
-/*
-     FILE ARCHIVED ON 09:39:41 Jun 22, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 17:34:19 Sep 05, 2022.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 3764.221
-  exclusion.robots: 0.116
-  exclusion.robots.policy: 0.107
-  cdx.remote: 0.078
-  esindex: 0.011
-  LoadShardBlock: 33.673 (3)
-  PetaboxLoader3.datanode: 45.586 (4)
-  CDXLines.iter: 17.624 (3)
-  load_resource: 63.779
-  PetaboxLoader3.resolve: 46.515
-*/
